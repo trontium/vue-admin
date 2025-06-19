@@ -6,5 +6,4 @@
   <p align="center">
     基于 Vue3 + ElementPlus + JavaScript + Pinia +Vite.搭建
     <br />
-<a href="https://template.zhouyi.run" target="_blank"><strong>在线示例点这里 »</strong></a>
 
